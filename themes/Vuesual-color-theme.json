@@ -706,10 +706,22 @@
 			}
 		},
 		{
+			"name": "Meta tag",
+			"scope": [
+				"entity.other.attribute - name.html",
+				"meta.tag.block.any.html"
+				// "text.html.vue - html"
+				// "source.vue"
+			],
+			"settings": {
+				"foreground": "#a0a0a0"
+			}
+		},
+		{
 			"name": "Strings, Inherited Class",
 			"scope": "string, entity.other.inherited-class",
 			"settings": {
-				"foreground": "#89CA78"
+				"foreground": "#707070"
 			}
 		},
 		{
