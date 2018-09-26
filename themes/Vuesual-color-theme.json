@@ -121,7 +121,7 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#5C6370",
+				"foreground": "#e0c28583",
 				"fontStyle": "italic"
 			}
 		},
@@ -129,7 +129,7 @@
 			"name": "Comment Markup Link",
 			"scope": "comment markup.link",
 			"settings": {
-				"foreground": "#5C6370"
+				"foreground": "#e0c28583"
 			}
 		},
 		{
