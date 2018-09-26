@@ -1379,16 +1379,11 @@
 		{
 			"name": "Comps",
 			"scope": [
-				// "entity.name.tag.inline.any.html",
-				// "meta.tag.inline.any.html",
-				// "meta.tag.other.html",
 				"text.html.vue-html",
 				"meta.tag.other.html text.html.vue",
 				"entity.name.tag.style.html",
 				"entity.name.tag.other.html",
 				"entity.name.tag.template.html"
-				// "text.html.vue - html",
-				// "source.vue"
 			],
 			"settings": {
 				"foreground": "#8146FE"
@@ -1399,9 +1394,7 @@
 			"scope": [
 				"entity.other.attribute - name.html",
 				"meta.directive.vue",
-				// "meta.tag.other.html",
 				"text.html.vue - html",
-				// "source.vue"
 			],
 			"settings": {
 				"foreground": "#23EBD0"
