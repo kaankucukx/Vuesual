@@ -1,20 +1,22 @@
 {
-    "name": "Vuesual",
-    "displayName": "Vuesual VS Code Theme",
-    "description": "Vuesual is component level colorized theme to improve coding and help you see well.",
+    "name": "vuesuaL",
+    "displayName": "vuesuaL",
+    "description": "Vue oriented syntax",
     "version": "0.0.1",
-    "publisher": "KaanK",
+    "publisher": "kaankucuk",
     "engines": {
-        "vscode": "^1.26.0"
+        "vscode": "^1.27.0"
     },
     "categories": [
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Vuesual",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Vuesual-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Vuesual",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vuesual-color-theme.json"
+            }
+        ]
     }
 }
