@@ -1379,6 +1379,16 @@
 			"settings": {
 				"foreground": "#23EBD0"
 			}
+		},
+		{
+			"name": "Html Class",
+			"scope": [
+				"string.quoted.double.html",
+				"meta.tag.block.any.html"
+			],
+			"settings": {
+				"foreground": "#7e7e7e"
+			}
 		}
 	]
 }
