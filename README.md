@@ -2,6 +2,7 @@
 
 
 [![Version](https://img.shields.io/badge/version-0.0.2-brightgreen.svg)](https://marketplace.visualstudio.com/items?itemName=kaankucuk.vuesual)
+[![Version](https://img.shields.io/badge/vscode-latest%20build-blue.svg)](https://marketplace.visualstudio.com/items?itemName=kaankucuk.vuesual)
 
 
 
