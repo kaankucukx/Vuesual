@@ -1374,7 +1374,7 @@
 			"scope": [
 				"entity.other.attribute - name.html",
 				"meta.directive.vue",
-				"text.html.vue - html",
+				"text.html.vue - html"
 			],
 			"settings": {
 				"foreground": "#23EBD0"
