@@ -1,22 +1,37 @@
 {
-    "name": "vuesuaL",
-    "displayName": "vuesuaL",
-    "description": "Vue oriented syntax",
-    "version": "0.0.1",
+    "name": "vuesual",
+    "displayName": "Vuesual",
+    "description": "Vue component/directive etc. highligted dark vs code theme. Something magical ✨ ✨ ",
+    "version": "0.0.2",
     "publisher": "kaankucuk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kaankucukx/Vuesual"
+    },
     "engines": {
         "vscode": "^1.27.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Vuesual",
+        "Vue Theme"
+    ],
+    "galleryBanner": {
+        "color": "#19191f",
+        "theme": "dark"
+    },
+    "scripts": {
+        "publish": "vsce publish"
+    },
     "contributes": {
-        "themes": [
-            {
-                "label": "Vuesual",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Vuesual-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Vuesual",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Vuesual-color-theme.json"
+        }]
     }
 }
